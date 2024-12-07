@@ -1,0 +1,6 @@
+projectKey=Proyecto-Ing.SoftwareII
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=Proyecto-Ing.SoftwareII
+ceTaskId=062d0c81-e3fa-4400-abfa-d976210ab19e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=062d0c81-e3fa-4400-abfa-d976210ab19e
